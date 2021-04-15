@@ -1,7 +1,7 @@
 # Global-Earthquakes-Analytics
+This github repository contains files with analytics performed solely using Tableau. The associated excel file contains data cleaned preliminarily prior to doing analytics in Tableau. Tableau files are best viewed using the Tableau desktop application or Tableau public. 
 
-![GA](https://user-images.githubusercontent.com/82559837/114822516-8480f100-9e05-11eb-9bf3-8d38af06e8b5.jpg)
-# Project 3
+#![GA](https://user-images.githubusercontent.com/82559837/114822516-8480f100-9e05-11eb-9bf3-8d38af06e8b5.jpg) Project 3
 
 In this project, I analysed earthquake data to explore trends and understand patterns of seismic activity around the world.
 
