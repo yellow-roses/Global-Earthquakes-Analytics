@@ -32,18 +32,20 @@ Create visualisations to show:
 -	Noted any assumptions and/or limitations
 -	Demonstrated how to utilize a calculated field to add value to the analysis.  
  
-Rubric for evaluation
+# Evaluation and rubric
 Exceeds Expectations (3)
 
-	Incomplete (0)	Doesn’t Meet Expectations (1)	Meets Expectations (2)	Exceeds Expectations (3)
-Findings and insights
+Incomplete (0)	Doesn’t Meet Expectations (1)	Meets Expectations (2)	Exceeds Expectations (3)
+
+# Findings and insights
 
 1.	Summary of high level data exploration
 2.	Analysis of data
 3.	Interpretation of analysis
 4.	Description of findings/ insights
 5.	Organisation and format				
-Overview of limitations, assumptions and recommended next steps
+
+# Overview of limitations, assumptions and recommended next steps
 
 1.	Recommendations for further analysis/ research
 2.	Presentation of limitations and assumptions
