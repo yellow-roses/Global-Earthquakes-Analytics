@@ -7,8 +7,8 @@ In this project, I analysed earthquake data to explore trends and understand pat
 
 ●	Exploring a data set to understand both the opportunities it presents as well as any limitations.  Making sensible, justifiable decisions about how best to proceed with analysis when working with imperfect data.
 ●	Creating a variety of visualisations to uncover insights
-●	Utilising breakdowns, groups, sets, filtering, pages and calculated metrics (where/ if relevant) to enhance your visualisations and findings
-●	Refining your visualisations to craft a clear and concise story for your audience
+●	Utilising breakdowns, groups, sets, filtering, pages and calculated metrics (where/ if relevant) to enhance  visualisations and findings
+●	Refining  visualisations to craft a clear and concise story for the audience
 ●	Bringing a variety of visualizations together in a dashboard and/or storypoints to convey a coherent narrative 
 
 # Deliverables from this project
@@ -22,9 +22,9 @@ Process
 Create visualisations to show:
 -	Location of earthquakes around the world
 -	Total earthquakes over time (use a date range based on your judgement)
--	Significant earthquakes over time.  Include an editable slide filter for magnitude.
+-	Significant earthquakes over time with an editable slide filter for magnitude.
 -	An overview of the share of earthquakes by their size and/ or impact
--	Any other visualisations of your choosing that provide an overview or insight into seismic activity.
+-	Other visualisations that provide an overview or insight into seismic activity.
 # Step Three: Summary and Presentation
 -	A selection of my key visualisations is put into a Tableau Dashboard or ‘Story’ and add appropriate commentary to explain my findings.
 -	From what I know about earthquakes and the dataset, created hypotheses or theories to explain any patterns or findings I have uncovered
